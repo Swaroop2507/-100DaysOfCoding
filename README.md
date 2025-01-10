@@ -1,8 +1,4 @@
-<h1>100-DaysOfCoding</h1>
-<p>
-  <ul>
-    <li>Day 1 Project: Band Name Generator</li>
-    <li>Day 2 Project: Tip Calculator </li>
-  </ul>
-</p>
+Python 100 Days of Code: Declaration Form
+
+This repository contains projects and code challenges from the "100 Days of Code: The Complete Python Pro Bootcamp" course, documenting my journey to mastering Python by building 100 projects in 100 days.
 
